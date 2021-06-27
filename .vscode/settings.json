@@ -1,0 +1,5 @@
+{
+    "python.autoComplete.extraPaths": ["D:\\Programs\\Django Projects\\CRUD_API_VEN\\Lib\\site-packages",],
+    "python.pythonPath": "CRUD_API_VEN\\Scripts\\python.exe",
+    "python.languageServer": "Microsoft"
+}
